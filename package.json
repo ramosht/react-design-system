@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "sb": "start-storybook -p 6006",
     "build-sb": "build-storybook",
-    "deploy-storybook": "storybook-to-ghpages"
+    "deploy-sb": "storybook-to-ghpages"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.0.0",
