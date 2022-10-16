@@ -17,6 +17,6 @@ module.exports = {
       config.base = "/react-design-system";
     }
 
-    return;
+    return config;
   },
 };
